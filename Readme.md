@@ -21,7 +21,7 @@ Install one of python package managers in your distro. If you install pip, then 
 
 If you prefer to accelerate keras training on GPU's you can install `tensorflow-gpu` by 
 `pip3 install tensorflow-gpu`
-
+poco loco
 ### Directory Structure
 - `speechemotionrecognition/` - Package folder which contains all the code files corresponding to package
 - `dataset/` - Contains the speech files in wav formatted seperated into 7 folders which are the corresponding labels of those files
